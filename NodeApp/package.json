@@ -1,0 +1,13 @@
+{
+  "name": "node-app",
+  "version": "0.0.0",
+  "description": "NodeApp",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "eslintConfig": {},
+  "dependencies": {
+    "eslint": "^8.56.0"
+  }
+}
